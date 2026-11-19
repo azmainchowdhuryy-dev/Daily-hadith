@@ -1,6 +1,5 @@
 {
   "name": "প্রতিদিনের হাদিস",
-  "description": "সহিহ বুখারী ও মুসলিম থেকে ছোট ও সুপরিচিত হাদিস, প্রতিদিন একটি করে",
   "short_name": "দৈনিক হাদিস",
   "start_url": "./index.html",
   "scope": "./",
@@ -32,5 +31,12 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
+  ],
+  "description": "সহিহ বুখারী ও মুসলিম থেকে ছোট ও সুপরিচিত হাদিস, প্রতিদিন একটি করে",
+  "id": "./index.html",
+  "categories": [
+    "books",
+    "education",
+    "lifestyle"
   ]
 }
